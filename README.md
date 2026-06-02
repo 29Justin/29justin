@@ -34,16 +34,16 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
--   🧠 **Skilled in:** Deep Learning, Machine Learning, Large Language Models (LLMs), Natural Language Processing (NLP), and Python.
--   🌱 **Currently Researching:** Advanced computational linguistics, transformer architectures, and scalable AI data pipelines.
--   ⚙️ **Currently Building:** Intelligent, context-aware AI systems and predictive models for enterprise applications.
--   ⚡ **Fun Fact:** I find debugging complex neural networks just as stimulating as my morning coffee. ☕🤖
+-    **Skilled in:** Deep Learning, Machine Learning, Large Language Models (LLMs), Natural Language Processing (NLP), and Python.
+-   **Currently Researching:** Advanced computational linguistics, transformer architectures, and scalable AI data pipelines.
+-    **Currently Building:** Intelligent, context-aware AI systems and predictive models for enterprise applications.
+-    **Fun Fact:** I find debugging complex neural networks just as stimulating as my morning coffee. ☕🤖
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 <details>
   <summary>Click to expand</summary>
