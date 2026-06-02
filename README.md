@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://technuva.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Justin+Nadar+👋;Full-Stack+Developer;AI+%26+API+Integration+Specialist;Founder+of+Technuva.dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Justin+Nadar+👋;Full-Stack+Developer;AI+%26+API+Integration+Specialist;Deep Learninig" alt="Typing SVG" />
   </a>
 </div>
 
