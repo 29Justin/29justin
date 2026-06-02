@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://technuva.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Justin+Nadar+👋;Full-Stack+Developer;AI+%26+API+Integration+Specialist;Deep Learninig" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Justin+Nadar+👋;Full-Stack+Developer;Deep+Learning;Machine+Learning+%26+Artificial+Intelligence;Applied+Computational+Linguistics" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,7 +27,7 @@
   <a href="https://dev.to/justin_d1b6ad778a77f32ff7" target="_blank">
     <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="mailto:justin@technuva.dev">
+  <a href="mailto:justin29nadar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -40,6 +40,23 @@
 -   🌱 **Currently Learning:** Data Engineering, Machine Learning, MERN Stack, and Flutter.
 -   ⚙️ **Currently Building:** Smart web solutions that make businesses more efficient.
 -   ⚡ **Fun Fact:** I turn crazy tech ideas into working web apps… usually before my coffee kicks in. ☕💻
+
+---
+
+### 🏆 GitHub Trophies & Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=29justin&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=29justin&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=29justin&theme=radical" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=29justin&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -111,18 +128,3 @@
 ### 📝 Latest Blog Posts
 
 ---
-
-### 🏆 GitHub Trophies & Stats
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=29justin&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=29justin&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=29justin&theme=radical" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=29justin&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
